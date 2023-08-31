@@ -1,12 +1,127 @@
 {
-    "tweets": [
-        {"id": "1", "author_id": "johnsmith", "text": "What are the pros of object-oriented programming?<br><br>Please, explain as if I'm 5."},
-        {"id": "2", "author_id": "carlanotarobot", "text": "Why use a debugger when you can fill your code with hundreds of <code>print()</code> statements?"},
-        {"id": "3", "author_id": "ameliawarner", "text": "Describe your relationship with JavaScript with one word."}
-    ],
-    "users": [
-        {"id": "johnsmith", "name": "John Smith", "email": "johnsmith@gmail.com"},
-        {"id": "carlanotarobot", "name": "Carla Notarobot", "email": "carlanotarobot@hotmail.com"},
-        {"id": "ameliawarner", "name": "Amelia Warner", "email": "ameliawarner@yahoo.com"}
-    ]
+  "tweets": [
+    {
+      "id": "1",
+      "author_id": "johnsmith",
+      "text": "What are the pros of object-oriented programming?<br><br>Please, explain as if I'm 5."
+    },
+    {
+      "id": "2",
+      "author_id": "carlanotarobot",
+      "text": "Why use a debugger when you can fill your code with hundreds of <code>print()</code> statements?"
+    },
+    {
+      "id": "3",
+      "author_id": "ameliawarner",
+      "text": "Describe your relationship with JavaScript with one word."
+    },
+    {
+      "author_id": "admin",
+      "text": "Admin test",
+      "id": "8VyxCoz"
+    },
+    {
+      "author_id": "johnsmith",
+      "text": "test2",
+      "id": "BoGo7hl"
+    },
+    {
+      "author_id": "johnsmith",
+      "text": "11",
+      "id": "4nXhFkq"
+    },
+    {
+      "author_id": "admin",
+      "text": "test",
+      "id": "-rbaA1_"
+    },
+    {
+      "author_id": "newuser123",
+      "text": "test new user",
+      "id": "vUT8ugt"
+    },
+    {
+      "author_id": "admin",
+      "text": "",
+      "id": "SWXzbYC"
+    },
+    {
+      "author_id": "admin",
+      "text": "adfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadf",
+      "id": "IGoXbzz"
+    },
+    {
+      "author_id": "admin",
+      "text": "adfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsa dfsfsadfsfs",
+      "id": "UOl4kut"
+    },
+    {
+      "author_id": "newuser123",
+      "text": "adfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadf",
+      "id": "hZnJ4k3"
+    },
+    {
+      "author_id": "newuser123",
+      "text": "adfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsadfsfsad",
+      "id": "5EojIpR"
+    },
+    {
+      "author_id": "newuser123",
+      "text": "a",
+      "id": "I9bsrQ4"
+    },
+    {
+      "author_id": "admin",
+      "text": "a",
+      "id": "HsMMQE_"
+    },
+    {
+      "author_id": "admin",
+      "text": "aaa",
+      "id": "R9VB8SA"
+    },
+    {
+      "author_id": "johnsmith",
+      "text": "test tweet John",
+      "id": "rIipZ_6"
+    }
+  ],
+  "users": [
+    {
+      "id": "johnsmith",
+      "name": "John Smith",
+      "email": "johnsmith@gmail.com",
+      "password": "john"
+    },
+    {
+      "id": "carlanotarobot",
+      "name": "Carla Notarobot",
+      "email": "carlanotarobot@hotmail.com",
+      "password": "carla"
+    },
+    {
+      "id": "ameliawarner",
+      "name": "Amelia Warner",
+      "email": "ameliawarner@yahoo.com",
+      "password": "amelia"
+    },
+    {
+      "id": "admin",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "admin1234",
+      "email": "admin@test.com",
+      "name": "admin1",
+      "password": "admin1234"
+    },
+    {
+      "id": "newuser123",
+      "email": "newuser@test.com",
+      "name": "New User",
+      "password": "12345678"
+    }
+  ]
 }
